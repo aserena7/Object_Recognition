@@ -3,9 +3,9 @@ _Computer Vision Project - Universidad Politécnica de Madrid.
 Feed-Forward Neural Network and Convolutional Neural Network in Tensorflow._
 
 # Overview
-The aim of this work is to solve several computer vision problems using deep models:
-• Develop proficiency in using Keras for training and testing neural nets (NNs).
-• Optimize the parameters and architectures of a dense feed-forward neural network (ffNN), and a convolutional neural net (CNN) for image classification.
+The aim of this work is to solve several computer vision problems using deep models:  
+• Develop proficiency in using Keras for training and testing neural nets (NNs).  
+• Optimize the parameters and architectures of a dense feed-forward neural network (ffNN), and a convolutional neural net (CNN) for image classification.  
 • Build a traffic sign detection algorithm.
 
 In this paper, an analysis of the German Traffic Sign Benchmark and CIFAR 100 datasets are performed with applying different methodologies in the spectrum of Computer Vision. Starting from the most basic architectures and gradually improving the algorithm. From Feed-Forward Neural Network to Convolutional Neural Network. Lastly, an object detection and recognition algorithm is build and evaluated. This work has been development in TensorFlow.
